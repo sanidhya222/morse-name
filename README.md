@@ -8,7 +8,7 @@ void line()
   digitalWrite(LED_BUILTIN,HIGH);
   delay(700);
   digitalWrite(LED_BUILTIN,LOW);
-  delay(1000);
+  delay(900);
 }
 
 void dot()
@@ -16,7 +16,7 @@ void dot()
   digitalWrite(LED_BUILTIN,HIGH);
   delay(150);
   digitalWrite(LED_BUILTIN,LOW);
-  delay(1000);
+  delay(900);
 }
 
 //NAME = SANIDHYA
